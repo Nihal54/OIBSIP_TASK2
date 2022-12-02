@@ -1,4 +1,4 @@
-//SUMIT VIKAS PAWAR
+//Nihal Juber Sayyad
 //Task-2 Number Guessing
 //Java Programming
 
